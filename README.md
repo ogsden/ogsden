@@ -6,10 +6,11 @@ Frontend developer
 
 I have been developing web applications in Angular for more than one year.
 
-* 🌍  Moscow
-* ✉️  You can contact me at [den.sobolevskii@mail.ru](mailto:den.sobolevskii@mail.ru)
+* 🌍  Moscow
+* ✉️  You can contact me at [den.sobolevskii@mail.ru](mailto:den.sobolevskii@mail.ru)
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -20,9 +21,11 @@ I have been developing web applications in Angular for more than one year.
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 </p>
 
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ogsden" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/densobolevskiy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ogsden" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/densobolevskiy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>Top Repositories</b>
