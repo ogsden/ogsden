@@ -3,9 +3,10 @@ Hi 👋 My name is Denis
 
 Frontend developer
 ------------------
-
-I have been developing web applications in Angular for more than one year.
-
+* Student of the Peoples' Friendship University of Russia
+* Developing web applications in Angular
+* Experience - 1 year
+---
 * 🌍  Moscow
 * ✉️  You can contact me at [den.sobolevskii@mail.ru](mailto:den.sobolevskii@mail.ru)
 
